@@ -1,0 +1,8 @@
+{
+  "sripts": {
+    "dev": "wombat dev"
+  },
+  "dependencies": {
+    "@snowdog/wombat": "^1.0.0-alpha.33"
+  }
+}
