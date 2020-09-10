@@ -1,0 +1,8 @@
+[
+  { "text": "Topics", "link": "/", "type": "local" },
+  { "text": "User's Dashboard", "link": "/user", "type": "local" },
+  { "text": "Admin Dashboard", "link": "/admin", "type": "local" },
+  { "text": "Tickets", "link": "https://meetmagento.pl/en#pricing", "type": "external" },
+  { "text": "FAQ", "link": "https://meetmagento.pl/en#faq", "type": "external" },
+  { "text": "Contact", "link": "https://meetmagento.pl/en#contactSection", "type": "external" }
+]

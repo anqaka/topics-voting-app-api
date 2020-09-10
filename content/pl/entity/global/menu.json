@@ -1,0 +1,8 @@
+[
+  { "text": "Prezentacje", "link": "/", "type": "local" },
+  { "text": "Panel Użytkownika", "link": "/user", "type": "local" },
+  { "text": "Panel Administratora", "link": "/admin", "type": "local" },
+  { "text": "Bilety", "link": "https://meetmagento.pl/#pricing", "type": "external" },
+  { "text": "FAQ", "link": "https://meetmagento.pl/#faq", "type": "external" },
+  { "text": "Kontakt", "link": "https://meetmagento.pl/#contactSection", "type": "external" }
+]
