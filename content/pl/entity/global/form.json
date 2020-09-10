@@ -1,0 +1,5 @@
+{
+  "required-field": "Pole jest wymagane",
+  "form-error-msg": "Poprawnie wypełnij formularz.",
+  "invalid-email-address": "Niepoprawny adres email"
+}

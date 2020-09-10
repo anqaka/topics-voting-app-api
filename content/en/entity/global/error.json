@@ -1,0 +1,9 @@
+{
+  "auth/invalid-email": "Email address is invalid.",
+  "auth/user-not-found": "User not found. Check if given email address is correct.",
+  "auth/wrong-password": "Incorrect password.",
+  "auth/user-disabled": "User is disabled.",
+  "auth/email-already-in-use": "Given email is already in use.",
+  "auth/weak-password": "Weak password.",
+  "auth/account-exists-with-different-credential": "To link another login method to existing account sign in with given provider.",
+}
