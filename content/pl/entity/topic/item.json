@@ -12,6 +12,7 @@
   "approve-button": "Zaakceptuj",
   "reject-button": "Odrzuć",
   "votes": "Głosy:",
+  "target-group": "Grupa docelowa:",
   "tooltip-not-logged": "Musisz być zalogowany, aby zagłosować",
   "tooltip-author": "Oj nieładnie!<br> Nie głosujemy na swoje propozycje!",
   "tooltip-voted": "Zagłosowane!",
@@ -27,5 +28,6 @@
   "speaker-details": "Prelegent - szczegóły",
   "speaker-company": "Prelegent Firma:",
   "speaker-position": "Pelegent stanowisko:",
-  "speaker-contact-email": "Prelegent email do kontaktu (dodatkowy):"
+  "speaker-contact-email": "Prelegent email do kontaktu (dodatkowy):",
+  "share": "Udostępnij na"
 }

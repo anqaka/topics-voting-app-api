@@ -1,0 +1,79 @@
+{
+  "title": "Add your topic proposition",
+  "title-field": {
+    "label": "Title"
+  },
+  "description-field": {
+    "label": "opic description ({markdown} syntax available, max. 700 characteres)",
+    "placeholder": "Description",
+    "tips": "Max length of text description - 700 characteres"
+  },
+  "target-field": {
+    "label": "Target audience (eg. junior Magento developer)",
+    "placeholder": "Taget audience"
+  },
+  "language-field": {
+    "label": "Topic's language",
+    "options": ["pl", "en"]
+  },
+  "role-field": {
+    "legend": "Choose role",
+    "options": [
+      {
+        "id": "observer",
+        "label": "I want to listen about it (topic „to grab”)"
+      },
+      {
+        "id": "speaker",
+        "label": "I want to become a speaker („call4papers”)"
+      }
+    ]
+  },
+  "speaker-info": {
+    "description": "By choosing this option you'll submit call4papers proposal. We will contact you if your proposal is accepted.",
+    "legend": "Fill out additional fields:",
+    "speaker-name-field": {
+      "label": "Speaker Name",
+      "placeholder": "Speaker Name"
+    },
+    "speaker-email-field": {
+      "label": "Speaker Email (provide user's email used for registration, if user doesn't exist in db, please create an email/pass account for him)",
+      "placeholder": "Speaker Email"
+    },
+    "company-field": {
+      "label": "Company",
+      "placeholder": "Company"
+    },
+    "position-field": {
+      "label": "Job title",
+      "placeholder": "Job title"
+    },
+    "contact-field": {
+      "label": "Contact email",
+      "placeholder": "Contact email"
+    }
+  },
+  "submit-button": "Add topic",
+  "submit-info": [
+    "Thanks for your submission! Your topic will be verified.",
+    "it will show up on the list as soon as it is approved."
+  ],
+  "more-button": "Add another topic",
+  "description-preview": "Description preview:",
+  "edit-topic": "Edit topic",
+  "user-not-exist": "User with given email address does not exist in db, please create an account",
+  "users-not-found": "Users not found, please refresh the page and try again or contact support team :)",
+  "edit-role-field": {
+    "legend": "Choose role",
+    "options": [
+      {
+        "id": "observer",
+        "label": "To grab"
+      },
+      {
+        "id": "speaker",
+        "label": "Call4Papers"
+      }
+    ]
+  }
+}

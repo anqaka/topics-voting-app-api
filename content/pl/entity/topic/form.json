@@ -1,0 +1,79 @@
+{
+  "title": "Dodaj swoją propozycję tematu",
+  "title-field": {
+    "label": "Tytuł"
+  },
+  "description-field": {
+    "label": "Opis ({markdown} dostępny, max. 700 znaków)",
+    "placeholder": "Opis",
+    "tips": "Maxymalna ilość znaków - 700"
+  },
+  "target-field": {
+    "label": "Grupa docelowa (np. początkujący developer Magento)",
+    "placeholder": "Grupa docelowa"
+  },
+  "language-field": {
+    "label": "Język prezentacji",
+    "options": ["pl", "en"]
+  },
+  "role-field": {
+    "legend": "Wybierz rolę",
+    "options": [
+      {
+        "id": "observer",
+        "label": "Chcę o tym posłuchać (temat „to grab”)"
+      },
+      {
+        "id": "speaker",
+        "label": "Chcę o tym opowiedzieć („call4papers”)"
+      }
+    ]
+  },
+  "speaker-info": {
+    "description": "Wybierając tą opcję zgłaszasz chęć zostania prelegentem i prezentowania tego tematu podczas konferencji. Skontaktujemy się z Tobą, jeśli zgłoszenie zostanie zaakceptowane.",
+    "legend": "Wypełnij proszę dodatkowe pola:",
+    "speaker-name-field": {
+      "label": "Speaker Name",
+      "placeholder": "Speaker Name"
+    },
+    "speaker-email-field": {
+      "label": "Speaker Email (Email uzytkownika podany przy rejestracji. Jeśli user nie istnieje, utwórz proszę konto dla niego uzywajac email/pass)",
+      "placeholder": "Speaker Email"
+    },
+    "company-field": {
+      "label": "Firma",
+      "placeholder": "Firma"
+    },
+    "position-field": {
+      "label": "Stanowisko",
+      "placeholder": "Stanowisko"
+    },
+    "contact-field": {
+      "label": "Email do kontaktu",
+      "placeholder": "Email do kontaktu"
+    }
+  },
+  "submit-button": "Dodaj temat",
+  "submit-info": [
+    "Dziękujemy za zgłoszenie. Twój temat został przesłany do weryfikacji.",
+    "Temat pojawi się na liście jak tylko zostanie zaakceptowany."
+  ],
+  "more-button": "Dodaj kolejny temat",
+  "description-preview": "Podgląd opisu:",
+  "edit-topic": "Edytuj temat",
+  "user-not-exist": "Uzytwkonik z podanym emailem nie istnieje, prosze stworz konto",
+  "users-not-found": "Lista uzytwkonikow nie zostala znaleziona, odswiez strone i sprobuj ponownie lub skontaktuj sie z supportem :)",
+  "edit-role-field": {
+    "legend": "Wybierz rolę",
+    "options": [
+      {
+        "id": "observer",
+        "label": "To grab"
+      },
+      {
+        "id": "speaker",
+        "label": "Call4Papers"
+      }
+    ]
+  }
+}

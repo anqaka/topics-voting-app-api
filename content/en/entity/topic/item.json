@@ -12,6 +12,7 @@
   "approve-button": "Approve",
   "reject-button": "Reject",
   "votes": "Votes:",
+  "target-group": "Target group:",
   "tooltip-not-logged": "You have to be logged in to vote",
   "tooltip-author": "Naughty naughty!<br> It's not fair to vote for your own topic.",
   "tooltip-voted": "Voted!",
@@ -27,5 +28,6 @@
   "speaker-details": "Speaker Details",
   "speaker-company": "Speaker company:",
   "speaker-position": "Speaker job position:",
-  "speaker-contact-email": "Speaker contact email (additional):"
+  "speaker-contact-email": "Speaker contact email (additional):",
+  "share": "Share on"
 }
