@@ -1,0 +1,23 @@
+{
+  "show-section": "Zaloguj się / Utwórz konto",
+  "hide-section": "Ukryj sekcję logowania",
+  "log-in": "Zaloguj",
+  "log-out": "Wyloguj",
+  "logout-successful": "Wylogowano pomyślnie",
+  "choose-login-method": "Wybierz metodę logowania",
+  "log-in-email-password": "Zaloguj się przy użyciu adresu email i hasła",
+  "account-already-linked-to-email": "Aby dodać {provider} jako metodę logowania dla konta {email}, zaloguj się używając {link}",
+  "first-name": "Imię",
+  "last-name": "Nazwisko",
+  "password": "Hasło",
+  "subscribe-to-newsletter": "Zapisz się do newslettera",
+  "no-account": "Nie masz konta?",
+  "create-account": "Utwórz konto",
+  "account-exists": "Masz już konto?",
+  "log-in-with-social-providers": "Wybierz inną metodę logowania",
+  "forgot-password": "Zapomniałeś hasła?",
+  "reset-password": "Zresetuj",
+  "send-reset-password-email": "Wyślij email resetujący hasło",
+  "reset-password-email-sent": "Email resetujący hasło został wysłany. Sprawdź skrzynkę pocztową.",
+  "reset-password-info": "Jeśli masz inne konta powiązane z aktualnymi danymi logowania, po zresetowaniu może być konieczne potwierdzenie ich nowym hasłem."
+}

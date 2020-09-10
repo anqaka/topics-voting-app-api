@@ -1,0 +1,23 @@
+{
+  "show-section": "Log In / Create Account",
+  "hide-section": "Hide Login Section",
+  "log-in": "Log In",
+  "log-out": "Log Out",
+  "logout-successful": "You logged out successfully",
+  "choose-login-method": "Choose your login method",
+  "log-in-email-password": "Log in with email & password",
+  "account-already-linked-to-email": "To link {provider} as a login method for {email} account, please sign in with {link}",
+  "first-name": "First name",
+  "last-name": "Last name",
+  "password": "Password",
+  "subscribe-to-newsletter": "Subscribe to our newsletter",
+  "no-account": "Don't have an account?",
+  "create-account": "Create account",
+  "account-exists": "Already have an account?",
+  "log-in-with-social-providers": "Log in with social providers",
+  "forgot-password": "Forgot password?",
+  "reset-password": "Reset",
+  "send-reset-password-email": "Send a password reset email",
+  "reset-password-email-sent": "Password reset email has been sent. Check your mailbox.",
+  "reset-password-info": "If you have any other accounts linked with current credentials, after reset you may need to confirm them with a new password."
+}
