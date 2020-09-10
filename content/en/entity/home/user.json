@@ -1,0 +1,9 @@
+{
+  "hi": "Hi, {name}!",
+  "add-your-topic": "Add your topic",
+  "welcome-msg": "You can vote on proposed topics or add your own proposition.",
+  "email-not-verified": "Your email address is not verified.",
+  "verification-email-info": "You should receive an email verification request, check your email box.",
+  "email-not-received": "If you didn't receive an email:",
+  "resend-email": "Resend email verification request"
+}

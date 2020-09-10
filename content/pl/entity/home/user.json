@@ -1,0 +1,9 @@
+{
+  "hi": "Witaj, {name}!",
+  "add-your-topic": "Dodaj swój temat",
+  "welcome-msg": "Możesz głosować na zaproponowane tematy lub dodać własną propozycję.",
+  "email-not-verified": "Twój adres email nie jest zweryfikowany.",
+  "verification-email-info": "Powinieneś otrzymać email z prośbą o weryfikację, sprawdź swoją skrzynkę.",
+  "email-not-received": "Jeśli nie otrzymałeś wiadomości:",
+  "resend-email": "Ponownie wyślij prośbę o weryfikację"
+}
