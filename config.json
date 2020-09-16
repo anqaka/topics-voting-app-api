@@ -1,7 +1,7 @@
 {
   "defaultLang": "pl",
   "allowedOrigins": [
-    "http://localhost:8080",
+    "http://localhost:8080/",
     "https://topics-voting-app-test.vercel.app/",
     "https://vote.meetmagento.pl/"
   ],

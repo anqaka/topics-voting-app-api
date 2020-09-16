@@ -1,8 +1,13 @@
 {
-  "sripts": {
+  "private": true,
+  "scripts": {
     "dev": "wombat dev"
   },
   "dependencies": {
-    "@snowdog/wombat": "^1.0.0-alpha.33"
+    "@snowdog/wombat": "^1.0.0-alpha.33",
+    "axios": "^0.20.0"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
