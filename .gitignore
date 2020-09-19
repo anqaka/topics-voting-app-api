@@ -86,8 +86,7 @@ typings/
 # Wombat
 wombat.db.json
 
-# Confapp
-confapp.db.json
-
 # IDE
 .idea
+
+.vercel
