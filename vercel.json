@@ -1,6 +1,5 @@
 {
-  "name": "topics-voting-app-api",
-  "regions": ["bru", "lhr"],
+  "regions": ["bru"],
   "version": 2,
   "builds": [
     { "src": "/api/*.js", "use": "@now/node" },
