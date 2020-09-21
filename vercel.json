@@ -1,0 +1,21 @@
+{
+  "name": "topics-voting-app-api",
+  "regions": ["bru", "lhr"],
+  "version": 2,
+  "builds": [
+    { "src": "/api/*.js", "use": "@now/node" },
+    { "src": "static/**", "use": "@now/static" }
+  ],
+  "routes": [
+    { "src": "/", "status": 301, "headers": { "Location": "https://vote.meetmagento.pl/" } },
+    { "src": "/entity", "dest": "/api/wombat.entity.js" },
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1",
+      "headers": { "cache-control": "public, max-age=315360000" }
+    }
+  ],
+  "env": {
+    "IS_DEV": "false"
+  }
+}
