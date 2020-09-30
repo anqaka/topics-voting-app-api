@@ -1,0 +1,6 @@
+{
+  "title": "Admin dashboard",
+  "notApprListTitle": "Waiting for approval",
+  "apprListTitle": "Approved",
+  "rejectedListTitle": "Rejected"
+}

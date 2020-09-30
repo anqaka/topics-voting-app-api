@@ -1,5 +1,5 @@
 {
-  "required-field": "Field is required",
-  "form-error-msg": "Please fill the form correctly.",
-  "invalid-email-address": "It's not valid email address"
+  "requiredField": "Field is required",
+  "formErrorMsg": "Please fill the form correctly.",
+  "invalidEmailAddress": "It's not valid email address"
 }

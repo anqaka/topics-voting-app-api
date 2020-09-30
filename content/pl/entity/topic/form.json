@@ -1,22 +1,22 @@
 {
   "title": "Dodaj swoją propozycję tematu",
-  "title-field": {
+  "titleField": {
     "label": "Tytuł"
   },
-  "description-field": {
+  "descriptionField": {
     "label": "Opis ({markdown} dostępny, max. 700 znaków)",
     "placeholder": "Opis",
     "tips": "Maxymalna ilość znaków - 700"
   },
-  "target-field": {
+  "targetField": {
     "label": "Grupa docelowa (np. początkujący developer Magento)",
     "placeholder": "Grupa docelowa"
   },
-  "language-field": {
+  "languageField": {
     "label": "Język prezentacji",
     "options": ["pl", "en"]
   },
-  "role-field": {
+  "roleField": {
     "legend": "Wybierz rolę",
     "options": [
       {
@@ -29,41 +29,41 @@
       }
     ]
   },
-  "speaker-info": {
+  "speakerInfo": {
     "description": "Wybierając tą opcję zgłaszasz chęć zostania prelegentem i prezentowania tego tematu podczas konferencji. Skontaktujemy się z Tobą, jeśli zgłoszenie zostanie zaakceptowane.",
     "legend": "Wypełnij proszę dodatkowe pola:",
-    "speaker-name-field": {
+    "speakerNameField": {
       "label": "Speaker Name",
       "placeholder": "Speaker Name"
     },
-    "speaker-email-field": {
+    "speakerEmailField": {
       "label": "Speaker Email (Email uzytkownika podany przy rejestracji. Jeśli user nie istnieje, utwórz proszę konto dla niego uzywajac email/pass)",
       "placeholder": "Speaker Email"
     },
-    "company-field": {
+    "companyField": {
       "label": "Firma",
       "placeholder": "Firma"
     },
-    "position-field": {
+    "positionField": {
       "label": "Stanowisko",
       "placeholder": "Stanowisko"
     },
-    "contact-field": {
+    "contactField": {
       "label": "Email do kontaktu",
       "placeholder": "Email do kontaktu"
     }
   },
-  "submit-button": "Dodaj temat",
-  "submit-info": [
+  "submitButton": "Dodaj temat",
+  "submitInfo": [
     "Dziękujemy za zgłoszenie. Twój temat został przesłany do weryfikacji.",
     "Temat pojawi się na liście jak tylko zostanie zaakceptowany."
   ],
-  "more-button": "Dodaj kolejny temat",
+  "moreButton": "Dodaj kolejny temat",
   "description-preview": "Podgląd opisu:",
-  "edit-topic": "Edytuj temat",
-  "user-not-exist": "Uzytwkonik z podanym emailem nie istnieje, prosze stworz konto",
-  "users-not-found": "Lista uzytwkonikow nie zostala znaleziona, odswiez strone i sprobuj ponownie lub skontaktuj sie z supportem :)",
-  "edit-role-field": {
+  "editTopic": "Edytuj temat",
+  "userNotExist": "Uzytwkonik z podanym emailem nie istnieje, prosze stworz konto",
+  "usersNotFound": "Lista uzytwkonikow nie zostala znaleziona, odswiez strone i sprobuj ponownie lub skontaktuj sie z supportem :)",
+  "editRoleField": {
     "legend": "Wybierz rolę",
     "options": [
       {

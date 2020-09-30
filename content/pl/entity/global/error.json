@@ -1,9 +1,9 @@
 {
-  "auth/invalid-email-address": "Adres email jest niepoprawny.",
-  "auth/user-not-found": "Użytkownik nie został znaleziony. Sprawdź, czy wpisany adres email jest poprawny.",
-  "auth/wrong-password": "Niepoprawne hasło.",
-  "auth/user-disabled": "Użytkownik jest wyłączony.",
-  "auth/email-already-in-use": "Podany email jest używany.",
-  "auth/weak-password": "Słabe hasło.",
-  "auth/account-exists-with-different-credential": "Aby powiązać metodę logowania z istniejącym kontem, zaloguj się za pomocą podanej metody."
+  "auth/invalidEmail": "Adres email jest niepoprawny.",
+  "auth/userNotFound": "Użytkownik nie został znaleziony. Sprawdź, czy wpisany adres email jest poprawny.",
+  "auth/wrongPassword": "Niepoprawne hasło.",
+  "auth/userDisabled": "Użytkownik jest wyłączony.",
+  "auth/emailAlreadyInUse": "Podany email jest używany.",
+  "auth/weakPassword": "Słabe hasło.",
+  "auth/accountExistsWithDifferentCredential": "Aby powiązać metodę logowania z istniejącym kontem, zaloguj się za pomocą podanej metody."
 }
