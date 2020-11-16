@@ -1,9 +1,11 @@
 {
-  "hi": "Witaj, {name}!",
+  "hi": "Witaj",
   "addYourTopic": "Dodaj swój temat",
   "welcomeMsg": "Możesz głosować na zaproponowane tematy lub dodać własną propozycję.",
-  "emailNotVerified": "Twój adres email nie jest zweryfikowany.",
-  "verificationEmailInfo": "Powinieneś otrzymać email z prośbą o weryfikację, sprawdź swoją skrzynkę.",
-  "emailNotReceived": "Jeśli nie otrzymałeś wiadomości:",
-  "resendEmail": "Ponownie wyślij prośbę o weryfikację"
+  "email": {
+    "notVerified": "Twój adres email nie jest zweryfikowany.",
+    "verificationInfo": "Powinieneś otrzymać email z prośbą o weryfikację, sprawdź swoją skrzynkę.",
+    "notReceived": "Jeśli nie otrzymałeś wiadomości:",
+    "resend": "Ponownie wyślij prośbę o weryfikację"
+  }
 }
